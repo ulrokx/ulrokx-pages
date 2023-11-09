@@ -24,5 +24,7 @@ sam_menu = [
 
 sam_bottom_menu = true
 
+hide_word_count = true
+
 [extra.sam_footer]
 text = "by ricky kirk"
