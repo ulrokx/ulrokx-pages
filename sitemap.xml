@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://rikirk.me/</loc>
+    </url>
+    <url>
+        <loc>https://rikirk.me/posts/</loc>
+    </url>
+    <url>
+        <loc>https://rikirk.me/posts/defense-layer/</loc>
+    </url>
+    <url>
+        <loc>https://rikirk.me/posts/dprk-portal/</loc>
+    </url>
+    <url>
+        <loc>https://rikirk.me/posts/oss/</loc>
+    </url>
+    <url>
+        <loc>https://rikirk.me/posts/poker-ai/</loc>
+    </url>
+    <url>
+        <loc>https://rikirk.me/posts/toml-parser/</loc>
+    </url>
+    <url>
+        <loc>https://rikirk.me/posts/voice-melody/</loc>
+    </url>
+</urlset>
