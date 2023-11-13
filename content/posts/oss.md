@@ -9,3 +9,4 @@ Possible OSS repos I should contribute to:
 - uBlockOrigin - slight vice, but could be fun + have passion
 - systemd - would be a lot of learning but would be the dream, stuff that is core to building software and running software
 - Git - this would be absolutely insane
+- psiphon-tunnel-core

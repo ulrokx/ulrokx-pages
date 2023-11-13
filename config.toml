@@ -24,7 +24,7 @@ sam_menu = [
 
 sam_bottom_menu = true
 
-hide_word_count = true
+show_reading_time = false
 
 [extra.sam_footer]
 text = "by ricky kirk"
